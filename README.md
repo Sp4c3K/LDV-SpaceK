@@ -1,6 +1,10 @@
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXBheW16OTFuaXZ0ZDU4amRvZmZ0bm92NWgxamZqcTkyajRlN3BycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DHBGehJ3FSZEygszX3/giphy.gif" width="100"/>
-</div>
+<center>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</center>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kh%C3%A1nh-ph%E1%BA%A1m-4ab36a313/">
