@@ -1,10 +1,8 @@
-<center>
-  <picture>
+<picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</center>
+</picture>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kh%C3%A1nh-ph%E1%BA%A1m-4ab36a313/">
@@ -20,13 +18,15 @@
   ![](https://komarev.com/ghpvc/?username=LDV-SpaceK&color=green&style=for-the-badge)
 </div>
 
+### :hammer_and_wrench: About me :
+
 - :telescope: I’m currently a student and looking for a security job.
 
 - :seedling: Digital Forensic.
 
 - :zap: In my free time, I play CTF, research cybersecurity knowledge, play football,...
 
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-gmail-blue?style=flat&logo=Gmail&logoColor=white)](sp4c3k@gmail.com)
+- :mailbox:How to reach me: ![Gmail Badge](https://img.shields.io/badge/-gmail-blue?style=flat&logo=Gmail&logoColor=white) sp4c3k@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
 
