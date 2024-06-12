@@ -26,7 +26,7 @@
 
 - :zap: In my free time, I play CTF, research cybersecurity knowledge, play football,...
 
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-gmail-blue?style=flat&logo=Gmail&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-gmail-blue?style=flat&logo=Gmail&logoColor=white)](sp4c3k@gmail.com)
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -48,11 +48,11 @@
 
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LDV-SpaceK&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LDV-SpaceK&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LDV-SpaceK)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LDV-SpaceK&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LDV-SpaceK&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LDV-SpaceK&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 LDV-SpaceK/LDV-SpaceK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
