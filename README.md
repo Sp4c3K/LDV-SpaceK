@@ -45,8 +45,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="VisualCode" **alt="VisualCode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Win11" **alt="Win11" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" **alt="linux" width="40" height="40"/>
-
 </div>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LDV-SpaceK&theme=dark&langs_count=100)](https://github.com/anuraghazra/github-readme-stats)
 
